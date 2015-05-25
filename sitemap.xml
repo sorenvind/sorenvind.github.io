@@ -2,61 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://sorenvind.dk/</loc>
+    <loc>http://sorenvind.dk/</loc>
     <lastmod>2015-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sorenvind.dk/papers/dynamic-relative-compression-dynamic-partial-sums-and-substring-concatenation</loc>
+    <loc>http://sorenvind.dk/papers/dynamic-relative-compression-dynamic-partial-sums-and-substring-concatenation</loc>
     <lastmod>2015-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sorenvind.dk/papers/compressed-pattern-matching-in-the-annotated-streaming-model</loc>
+    <loc>http://sorenvind.dk/papers/compressed-pattern-matching-in-the-annotated-streaming-model</loc>
     <lastmod>2015-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sorenvind.dk/papers/compressed-data-structures-for-range-searching</loc>
+    <loc>http://sorenvind.dk/papers/compressed-data-structures-for-range-searching</loc>
     <lastmod>2015-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sorenvind.dk/papers/indexing-motion-detection-data-for-surveillance-video</loc>
+    <loc>http://sorenvind.dk/papers/indexing-motion-detection-data-for-surveillance-video</loc>
     <lastmod>2014-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sorenvind.dk/papers/output-sensitive-pattern-extraction-in-sequences</loc>
+    <loc>http://sorenvind.dk/papers/output-sensitive-pattern-extraction-in-sequences</loc>
     <lastmod>2014-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sorenvind.dk/papers/colored-range-searching-in-linear-space</loc>
+    <loc>http://sorenvind.dk/papers/colored-range-searching-in-linear-space</loc>
     <lastmod>2014-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sorenvind.dk/papers/fingerprints-in-compressed-strings</loc>
+    <loc>http://sorenvind.dk/papers/fingerprints-in-compressed-strings</loc>
     <lastmod>2013-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sorenvind.dk/papers/string-indexing-for-patterns-with-wildcards</loc>
+    <loc>http://sorenvind.dk/papers/string-indexing-for-patterns-with-wildcards</loc>
     <lastmod>2012-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sorenvind.dk/</loc>
+    <loc>http://sorenvind.dk/</loc>
   </url>
   
   <url>
-    <loc>https://sorenvind.dk/portfolio/</loc>
+    <loc>http://sorenvind.dk/portfolio/</loc>
   </url>
   
   <url>
-    <loc>https://sorenvind.dk/academia/</loc>
+    <loc>http://sorenvind.dk/academia/</loc>
   </url>
   
 </urlset>
