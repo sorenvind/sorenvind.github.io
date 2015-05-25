@@ -10,22 +10,22 @@
 
   <title>
     
-      String Indexing for Patterns with Wildcards &middot; sorenvind.dk
+      Posts &middot; sorenvind.dk
     
   </title>
 
   
-  <link rel="stylesheet" type="text/css" href="https://sorenvind.dk/css/Skeleton-2.0.4/css/normalize.css">
-  <link rel="stylesheet" type="text/css" href="https://sorenvind.dk/css/syntax.css">
+  <link rel="stylesheet" type="text/css" href="http://localhost:1313/css/Skeleton-2.0.4/css/normalize.css">
+  <link rel="stylesheet" type="text/css" href="http://localhost:1313/css/syntax.css">
 
-  <link rel="stylesheet" type="text/css" href="https://sorenvind.dk/css/Skeleton-2.0.4/css/skeleton.css">
-  <link rel="stylesheet" type="text/css" href="https://sorenvind.dk/css/custom.css">
+  <link rel="stylesheet" type="text/css" href="http://localhost:1313/css/Skeleton-2.0.4/css/skeleton.css">
+  <link rel="stylesheet" type="text/css" href="http://localhost:1313/css/custom.css">
 
   <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700|PT+Sans:400|Indie+Flower">
 
   
-  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://sorenvind.dk/assets/apple-touch-icon-144-precomposed.png">
-  <link rel="shortcut icon" href="https://sorenvind.dk/assets/favicon.ico">
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:1313/assets/apple-touch-icon-144-precomposed.png">
+  <link rel="shortcut icon" href="http://localhost:1313/assets/favicon.ico">
 
   
   <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
@@ -34,7 +34,7 @@
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
   
-  <link rel="alternate" type="application/rss+xml" title="RSS" href="https://sorenvind.dk/atom.xml">
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="http://localhost:1313/atom.xml">
 </head>
 
 
@@ -48,7 +48,7 @@
     <div class="row">
         <div class="ten columns offset-by-one">
           <ul class="navbar-list">
-            <li class="navbar-item"><a class="navbar-link " href="https://sorenvind.dk/">sorenvind.dk</a></li>
+            <li class="navbar-item"><a class="navbar-link " href="http://localhost:1313/">sorenvind.dk</a></li>
             
             
             
@@ -71,11 +71,13 @@
             
             
             
-            <li class="navbar-item"><a class="navbar-link " href="https://sorenvind.dk/portfolio/">Portfolio</a></li>
+            
+            
+            <li class="navbar-item"><a class="navbar-link " href="http://localhost:1313/portfolio/">Portfolio</a></li>
             
             
             
-            <li class="navbar-item"><a class="navbar-link " href="https://sorenvind.dk/academia/">Academia</a></li>
+            <li class="navbar-item"><a class="navbar-link " href="http://localhost:1313/academia/">Academia</a></li>
             
             
             <li class="navbar-social">
@@ -100,26 +102,32 @@
           <div class="ten columns offset-by-one">
       
 
-<div class="post">
-  <h1 class="post-title">String Indexing for Patterns with Wildcards</h1>
-  <span class="post-date">01 Jul 2012</span>
-  <p>We consider the problem of indexing a string $t$ of length $n$ to report the occurrences of a query pattern $p$ containing $m$ characters and $j$ wildcards. Let $occ$ be the number of occurrences of $p$ in $t$, and $\sigma$ the size of the alphabet. We obtain the following results.</p>
 
-<ul>
-<li>A linear space index with query time $O(m+\sigma^j \log \log n + occ)$.
-This significantly improves the previously best known linear space index by Lam et al. [ISAAC 2007], which requires query time $\Theta(jn)$ in the worst case.</li>
-<li>An index with query time $O(m+j+occ)$ using space $O(\sigma^{k^2} n \log^k \log n)$, where $k$ is the maximum number of wildcards allowed in the pattern. This is the first non-trivial bound with this query time.</li>
-<li>A time-space trade-off, generalizing the index by Cole et al. [STOC 2004].</li>
-</ul>
 
-<p>Our results are obtained using a novel combination of well-known and new techniques, which could be of independent interest.</p>
+<div class="posts">
+  
+    
+      <div class="post">
+        <h1 class="post-title"><a href="http://localhost:1313/2015/05/17/first-blog-post/">First Blog Post!</a></h1>
+        <span class="post-date">17 May 2015</span>
+        <p>Some content here!</p>
 
+<p>Even. More. Here.</p>
+
+      </div>
+    
+  
 </div>
 
+</div>
+</div>
           </div>
         </div>      
       </div>
     </div>
-  </body>
+  <script>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
 </html>
 
