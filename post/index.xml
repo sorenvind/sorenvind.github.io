@@ -4,7 +4,7 @@
     <title> </title>
     <link>http://localhost:1313/post/</link>
     <language>en-us</language>
-    <author>Soren Vind</author>
+    <author>Søren Vind</author>
     <rights>(C) 2015</rights>
     <updated>2015-05-17 10:40:38 &#43;0200 CEST</updated>
 
@@ -14,7 +14,7 @@
           <title>First Blog Post!</title>
           <link>http://localhost:1313/2015/05/17/first-blog-post/</link>
           <pubDate>Sun, 17 May 2015 10:40:38 CEST</pubDate>
-          <author>Soren Vind</author>
+          <author>Søren Vind</author>
           <guid>http://localhost:1313/2015/05/17/first-blog-post/</guid>
           <description>&lt;p&gt;Some content here!&lt;/p&gt;
 
